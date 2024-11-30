@@ -1,0 +1,11 @@
+INFO ===> Test test_4 started at 2024-11-30 20:14:21.790970
+INFO Browser chrome started
+INFO Authorization initialized
+INFO Authorization: Clicked on 'INPUT_EMAIL'
+INFO Authorization: Entered 'firstsur1@mail.ru' into 'INPUT_EMAIL'
+INFO Authorization initialized
+INFO Authorization: Clicked on 'INPUT_PASSWORD'
+INFO Authorization: Entered 'password' into 'INPUT_PASSWORD'
+INFO Authorization initialized
+INFO Authorization: Clicked on 'BUTTON_LOGIN'
+INFO ===> Test test_4 finished at 2024-11-30 20:14:27.869667

@@ -1,0 +1,12 @@
+[32mINFO    [0m test_6:conftest.py:34 ===> Test test_6 started at 2024-11-30 20:14:41.906254
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Салим\.wdm\drivers\chromedriver\win64\131.0.6778.85\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m test_6:conftest.py:58 Browser chrome started
+[32mINFO    [0m test_6:base.py:14 Main initialized
+[32mINFO    [0m test_6:base.py:34 Main: Clicked on 'INPUT_SEARCH'
+[32mINFO    [0m test_6:base.py:45 Main: Entered 'kkk' into 'INPUT_SEARCH'
+[32mINFO    [0m test_6:base.py:14 Main initialized
+[32mINFO    [0m test_6:main.py:12 Press 'Enter'
+[32mINFO    [0m test_6:conftest.py:62 ===> Test test_6 finished at 2024-11-30 20:14:47.573500

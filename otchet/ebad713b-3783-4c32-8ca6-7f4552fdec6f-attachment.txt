@@ -1,0 +1,23 @@
+[32mINFO    [0m test_1:conftest.py:34 ===> Test test_1 started at 2024-11-30 20:13:48.933917
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Салим\.wdm\drivers\chromedriver\win64\131.0.6778.85\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m test_1:conftest.py:58 Browser chrome started
+[32mINFO    [0m test_1:base.py:14 Registration initialized
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_FIRSTNAME'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered 'firstname' into 'INPUT_FIRSTNAME'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_LASTNAME'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered 'surname' into 'INPUT_LASTNAME'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_EMAIL'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered 'firstsur1@mail.ru' into 'INPUT_EMAIL'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_TELEPHONE'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered '88005553535' into 'INPUT_TELEPHONE'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_PASSWORD'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered 'Passvv0rd' into 'INPUT_PASSWORD'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'INPUT_CONFIRM'
+[32mINFO    [0m test_1:base.py:45 Registration: Entered 'Passvv0rd' into 'INPUT_CONFIRM'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'BUTTON_SUBSCRIBE'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'BUTTON_INPUT'
+[32mINFO    [0m test_1:base.py:34 Registration: Clicked on 'BUTTON_NEXT'
+[32mINFO    [0m test_1:conftest.py:62 ===> Test test_1 finished at 2024-11-30 20:13:56.083282

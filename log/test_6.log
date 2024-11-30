@@ -1,0 +1,8 @@
+INFO ===> Test test_6 started at 2024-11-30 20:14:41.906254
+INFO Browser chrome started
+INFO Main initialized
+INFO Main: Clicked on 'INPUT_SEARCH'
+INFO Main: Entered 'kkk' into 'INPUT_SEARCH'
+INFO Main initialized
+INFO Press 'Enter'
+INFO ===> Test test_6 finished at 2024-11-30 20:14:47.573500

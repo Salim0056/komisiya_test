@@ -1,0 +1,8 @@
+INFO ===> Test test_5 started at 2024-11-30 20:14:31.934789
+INFO Browser chrome started
+INFO Main initialized
+INFO Main: Clicked on 'INPUT_SEARCH'
+INFO Main: Entered 'macbook' into 'INPUT_SEARCH'
+INFO Main initialized
+INFO Press 'Enter'
+INFO ===> Test test_5 finished at 2024-11-30 20:14:37.859060

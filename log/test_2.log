@@ -1,0 +1,19 @@
+INFO ===> Test test_2 started at 2024-11-30 20:14:00.185553
+INFO Browser chrome started
+INFO Registration initialized
+INFO Registration: Clicked on 'INPUT_FIRSTNAME'
+INFO Registration: Entered 'firstname' into 'INPUT_FIRSTNAME'
+INFO Registration: Clicked on 'INPUT_LASTNAME'
+INFO Registration: Entered 'surname' into 'INPUT_LASTNAME'
+INFO Registration: Clicked on 'INPUT_EMAIL'
+INFO Registration: Entered 'firstsur1@mail.ru' into 'INPUT_EMAIL'
+INFO Registration: Clicked on 'INPUT_TELEPHONE'
+INFO Registration: Entered '88005553535' into 'INPUT_TELEPHONE'
+INFO Registration: Clicked on 'INPUT_PASSWORD'
+INFO Registration: Entered 'Passvv0rd' into 'INPUT_PASSWORD'
+INFO Registration: Clicked on 'INPUT_CONFIRM'
+INFO Registration: Entered 'Passvv0rd' into 'INPUT_CONFIRM'
+INFO Registration: Clicked on 'BUTTON_SUBSCRIBE'
+INFO Registration: Clicked on 'BUTTON_INPUT'
+INFO Registration: Clicked on 'BUTTON_NEXT'
+INFO ===> Test test_2 finished at 2024-11-30 20:14:07.414152

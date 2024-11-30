@@ -1,0 +1,15 @@
+[32mINFO    [0m test_4:conftest.py:34 ===> Test test_4 started at 2024-11-30 20:14:21.790970
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Салим\.wdm\drivers\chromedriver\win64\131.0.6778.85\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m test_4:conftest.py:58 Browser chrome started
+[32mINFO    [0m test_4:base.py:14 Authorization initialized
+[32mINFO    [0m test_4:base.py:34 Authorization: Clicked on 'INPUT_EMAIL'
+[32mINFO    [0m test_4:base.py:45 Authorization: Entered 'firstsur1@mail.ru' into 'INPUT_EMAIL'
+[32mINFO    [0m test_4:base.py:14 Authorization initialized
+[32mINFO    [0m test_4:base.py:34 Authorization: Clicked on 'INPUT_PASSWORD'
+[32mINFO    [0m test_4:base.py:45 Authorization: Entered 'password' into 'INPUT_PASSWORD'
+[32mINFO    [0m test_4:base.py:14 Authorization initialized
+[32mINFO    [0m test_4:base.py:34 Authorization: Clicked on 'BUTTON_LOGIN'
+[32mINFO    [0m test_4:conftest.py:62 ===> Test test_4 finished at 2024-11-30 20:14:27.869667
